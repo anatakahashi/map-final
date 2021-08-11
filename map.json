@@ -25,7 +25,17 @@
                  "name":"OpenWebsite",
                  "type":"string",
                  "value":"https:\/\/cvortex.notion.site\/Basecamp-02d83aa61fb04d8ab82b893524086a4d"
-                }],
+                },
+                {
+                     "name":"openWebsiteTrigger",
+                     "type":"string",
+                     "value":"onaction"
+                    }, 
+                    {
+                     "name":"openWebsiteTriggerMessage",
+                     "type":"string",
+                     "value":"Pressione ESPA\u00c7O para acessar o Notion"
+                    }],
          "type":"tilelayer",
          "visible":true,
          "width":50,
@@ -52,7 +62,7 @@
                 {
                  "name":"openWebsiteTriggerMessage",
                  "type":"string",
-                 "value":"Pressione ESPA\u00c7O para abrir o Wizz"
+                 "value":"Olá, eu sou o Wizz. Para acessar minha base de conhecimento, pressione ESPA\u00c7O"
                 }],
          "type":"tilelayer",
          "visible":true,
